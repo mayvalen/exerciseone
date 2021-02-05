@@ -1,0 +1,52 @@
+/* CSS files add styling rules to your content */
+html {
+  background-color: rgb(245,245,220, .3);
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h3 {
+  font-style: normal;
+  color: black;
+}
+
+.center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.youtube {
+  padding-right: 10px;
+}
+
+.secondflex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+   
+}
+
+.instagram {
+  padding-right: 10px;
+}
+
+.secondinstagram {
+  padding-right: 10px;
+}
+
+.thirdinstagram {
+  padding-right: 10px;
+}
+
+.fourthinstagram {
+  padding-right: 10px;
+}
